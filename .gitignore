@@ -78,6 +78,15 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Project artifacts
+models/*.pkl
+
+# Raw/source data (download locally; do not commit)
+olist_data/
+Dataset/
+data/raw/
+*.zip
+
 # IPython
 profile_default/
 ipython_config.py
