@@ -79,7 +79,6 @@ target/
 .ipynb_checkpoints
 
 # Project artifacts
-models/*.pkl
 
 # Raw/source data (download locally; do not commit)
 olist_data/
